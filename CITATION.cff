@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "VHP: Vertical-Horizontal Propagation for Statutory Article Retrieval"
+message: "If you use this software, please cite both the software and the paper."
+type: software
+authors:
+  - family-names: Benamar
+    given-names: Akram
+    affiliation: "Efrei Research Lab, Paris / Université Paris-Panthéon-Assas"
+  - family-names: Dilmi
+    given-names: Mohamed Djallel
+    affiliation: "Efrei Research Lab, Paris"
+  - family-names: Chaieb-Chakchouk
+    given-names: Faten
+    affiliation: "Efrei Research Lab, Paris"
+version: 1.0.0
+license: MIT
+keywords:
+  - statutory article retrieval
+  - legal information retrieval
+  - score regularization
+  - BSARD
+preferred-citation:
+  type: conference-paper
+  title: "How Much of the Legislative Structure Can We Use Without Training? Score Regularization for Statutory Article Retrieval"
+  authors:
+    - family-names: Benamar
+      given-names: Akram
+    - family-names: Dilmi
+      given-names: Mohamed Djallel
+    - family-names: Chaieb-Chakchouk
+      given-names: Faten
+  collection-title: "Legal Knowledge and Information Systems (JURIX)"
+  year: 2026
