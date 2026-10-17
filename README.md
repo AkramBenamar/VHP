@@ -57,7 +57,7 @@ cheap. VHP-E requires embeddings and does not apply to BM25.
 ## Installation
 
 ```bash
-git clone <repository-url> vhp
+git clone https://github.com/AkramBenamar/VHP.git vhp
 cd vhp
 pip install -e .
 ```
